@@ -11,11 +11,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuPandey92&show_icons=true&theme=tokyonight)
-
----
-
 ### 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
