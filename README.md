@@ -35,6 +35,11 @@
 
 ---
 
+### 📊 GitHub Stats
+![Piyu's GitHub Stats](https://github-readme-stats-two-rho-74.vercel.app/api?username=PriyanshuPandey92&show_icons=true&include_all_commits=true&show_private=true&hide_border=true&theme=radical)
+
+---
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-pandey-934827184/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:priyanshupandey92@gmail.com)
