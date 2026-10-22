@@ -1,13 +1,6 @@
 # Hi there 👋, I'm Priyanshu 
 
-💻 Software Engineer | ⚡ Problem Solver | 🌱 Open Source Enthusiast  
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Mini CRM Platform**
-- 💬 Ask me about **React, Next.js, Express, MongoDB**
-- 🎯 Solved **500+ DSA problems** and achieved **Knight badge on LeetCode**
+💻 Software Engineer | ⚡ Problem Solver 
 
 ---
 
@@ -29,7 +22,6 @@
 
 ### 🏆 Achievements
 - 🌟 **Knight badge** on LeetCode (1850+ rating)  
-- 🥈 2nd Rank at **Smart India Hackathon 2024 (College Level)**  
 - 🏅 5⭐ coder on LeetCode  
 - 📚 Professional Certificate in **Fullstack Web Development**  
 
