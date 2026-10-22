@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/wallpaper.gif" width="100%" alt="banner" />
+</p>
+
 # Hi there 👋, I'm Priyanshu 
 
 💻 Software Engineer | ⚡ Problem Solver 
